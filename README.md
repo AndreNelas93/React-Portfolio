@@ -5,3 +5,5 @@ This was my first attempt at developing a React app, after graduating from the b
 The aim of this project was to put my hands on React in a code editor, after having finished Codecademy's React course.
 
 The project was done in the beginning of April, and I've just pushed it whole to GH now.
+
+There are some issues I want to tackle later, in the Projects section and in the Mailchimp config.
